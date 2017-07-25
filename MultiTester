@@ -1,0 +1,25 @@
+Economical Do-It-Yourself system for space-limited beginning electronics hobbyist through professional technician or engineer.  Provides everything but an oscilloscope.
+
+The system will incorporate the 3-in-one tester as shown in the November 2016 issue of Nuts and Volts, which incorporates a PIC micro-
+controller-based programmable function generator, programmable precision voltage reference and a frequency counter.  This follow-up design
+will use the same principles as the original, but will allow all three to operate independently.  Additionally to the original three functions will be an added triple-output power supply, an accurate RCL meter, and a true-RMS digital multimeter, a multi-protocol serial bus analyzer with decoding for:
+
+USB's, USB 1.1 – 15 Mbps.
+FireWire (1394a) – 400 Mbps.
+USB 2.0 – 480 Mbps.
+FireWire 800 (1394b) – 800 Mbps.
+SATA 1.5 – 1.5 Gbps.
+SATA 3.0 – 3.0 Gbps.
+USB 3.0 – 4.8 Gbps.
+USB 3.1 – 10Gbps.
+CAN bus
+SPI bus
+RS-232, 422, 485
+GPIB
+I2C, SPI, UART, USART, etc.
+And a provision for old parallel bus interfaces.
+The last one(s) might be a pipe dream, but this is more like an equipment Christmas wish list, that will change as we determine what is actually practical.  Modularity will be key, and with software intelligence, it 
+
+All of this will be handled by multiple processors, considering the multitude of functions and capabilities being built into them these days along with the fact that they are cheaper and faster all the time with ever-increasing performance.
+
+So, of course, this is just the "Kicking It Around" phase.
